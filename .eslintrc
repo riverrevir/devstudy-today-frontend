@@ -1,5 +1,5 @@
 {
-  "extends": ["next/core-web-vitals","airbnb", "airbnb-typescript", "plugin:prettier/recommended"],
+  "extends": ["airbnb", "airbnb-typescript", "plugin:prettier/recommended"],
   "rules": {
     "jsx-a11y/label-has-associated-control": [ 2, {
       "labelComponents": ["CustomInputLabel"],
